@@ -1,6 +1,6 @@
 # 未匹配频道报告
 # 以下频道在源中未找到匹配项
-# 生成时间: 2025-11-07 18:14:13
+# 生成时间: 2025-11-07 19:10:49
 
 ## 模板中未匹配的频道（在源中找不到）
 
@@ -25,7 +25,7 @@ CETV-3,
 陕西卫视,
 
 🕘️更新时间,#genre#
-2025-11-07 06:23:47,
+2025-11-07 18:25:09,
 
 📺央视频道,#genre#
 CETV-3,
@@ -135,6 +135,7 @@ BRTV国际频道,
 江苏体育,
 泗洪新闻综合,
 泗阳综合,
+滨海新闻综合,
 江苏体育休闲,
 
 ☘️辽宁频道,#genre#
@@ -277,7 +278,10 @@ BRTV国际频道,
 
 ☘️山东频道,#genre#
 山东文旅,
-青州综合,
+菏泽一套新闻综合,
+菏泽三套影视,
+菏泽影,
+菏泽新闻综合,
 
 ☘️安徽频道,#genre#
 安徽导视,
@@ -413,9 +417,7 @@ JJ斗地主,
 爱动漫,
 宝宝动画,
 CN卡通,
-24H国漫热播,
 河北少儿科教,
-七龙珠,
 火影忍者,
 海绵宝宝,
 经典动漫,
@@ -528,6 +530,43 @@ JJ斗地主,
 巴彦淖尔新闻,
 赤峰新闻综合,
 乌兰察布新闻,
+
+港澳台,#genre#
+澳门卫视,
+Pet Club TV,
+Bloomberg TV Asia,
+HKS,
+Celestial Movies,
+TVB News,
+Good,
+Good 2,
+Beautiful Life TV,
+Supreme Master TV,
+Taiwan Plus TV,
+Genius Go Go Go,
+DaAi 1,
+DaAi 2,
+Dali TV,
+EBC YOYO,
+CTi News,
+FTV News,
+Global News,
+SET iNews,
+TTV News,
+mnews,
+ET Mall 60,
+东森财经新闻,
+Momo 1,
+Momo 2,
+信大,
+NU,
+NU2,
+JP1,
+KPop,
+民视新闻HD,
+
+卫视台,#genre#
+陕西卫视,
 
 港澳台外,#genre#
 民视频道,
@@ -855,43 +894,6 @@ AI七宗罪.人工智能三大定律竟有致命漏洞,
 爱真的只是激素吗.当灵魂超脱肉体人类又能否逃离天罚,
 人类永远无法战胜的初代魔王,
 从苏美到波斯.最后的阿努纳奇,
-
-港澳台,#genre#
-澳门卫视,
-Pet Club TV,
-Bloomberg TV Asia,
-HKS,
-Celestial Movies,
-TVB News,
-Good,
-Good 2,
-Beautiful Life TV,
-Supreme Master TV,
-Taiwan Plus TV,
-Genius Go Go Go,
-DaAi 1,
-DaAi 2,
-Dali TV,
-EBC YOYO,
-CTi News,
-FTV News,
-Global News,
-SET iNews,
-TTV News,
-mnews,
-ET Mall 60,
-东森财经新闻,
-Momo 1,
-Momo 2,
-信大,
-NU,
-NU2,
-JP1,
-KPop,
-民视新闻HD,
-
-卫视台,#genre#
-陕西卫视,
 
 央视高清,#genre#
 上海纪实,
@@ -1286,7 +1288,6 @@ NewTV 明星大片,
 宁化电视一套,
 安顺新闻,
 宜阳综合,
-宿松新闻综合,
 山东文旅,
 嵊州新闻综合,
 嵊泗综合,
@@ -1383,7 +1384,6 @@ NewTV 明星大片,
 陕西新闻咨询,
 陕西秦腔,
 陕西银龄,
-青州综合,
 靖宇综合,
 鹿泉二套,
 黄山公共生活,
@@ -3560,8 +3560,8 @@ House of Docs – Pluto TV,
 Le vite degli altri – Pluto TV,
 
 更新时间,#genre#
-2025-11-07 12:27:28,
-2025-11-07 12:27:27,
+2025-11-07 18:28:07,
+2025-11-07 18:28:06,
 
 儿童频道,#genre#
 靖洋卡通,
