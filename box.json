@@ -702,7 +702,7 @@
 		},
 		{
 			"key": "飞快影视",
-			"name": "人人影视",
+			"name": "飞快影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./jar/XBPQ.jar",
